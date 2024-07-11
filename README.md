@@ -1,6 +1,8 @@
-# temp_conversion
+# Temperature Converter App
 
-A new Flutter project.
+
+A Flutter application for converting temperatures between degrees Fahrenheit and Celsius.
+
 
 ## Getting Started
 
