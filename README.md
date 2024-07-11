@@ -1,18 +1,14 @@
 # Temperature Converter App
 
-
 A Flutter application for converting temperatures between degrees Fahrenheit and Celsius.
 
+# Demo video
+https://github.com/Sadickachuli/Temperature_Converter/assets/122355398/fb3f3bc6-3247-42fd-b741-6df15b4e02c7
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# features:
+1. Allows the user to select either Fahrenheit-to-Celsius or Celsius-to-Fahrenheit conversions.
+2. Uses the following formulae for conversion : °F = °C x 9/5 + 32   and °C = (°F - 32) x 5/9
+3. Users can enter initial temperature values.
+4. Pressing the Convert button calculates the converted temperature value and displays it on the screen out to 2 decimal places only.
+5. The conversion operation, value, and calculated results are added to the “history”, where users can either show or hide it.
+6. The app looks and act consistently in either portrait or landscape orientation.
