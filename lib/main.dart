@@ -55,7 +55,7 @@ class _TemperatureConverterScreenState
         _temperatureIcon = Icons.thermostat;
         _temperatureColor = Colors.grey;
       } else if (inputTemp > 37 && inputTemp <= 70) {
-        _temperatureIcon = Icons.whatshot;
+        _temperatureIcon = Icons.thermostat;
         _temperatureColor = Colors.red;
       } else {
         _temperatureIcon = Icons.whatshot;
@@ -73,7 +73,7 @@ class _TemperatureConverterScreenState
         _temperatureIcon = Icons.thermostat;
         _temperatureColor = Colors.grey;
       } else if (inputTemp > 99 && inputTemp <= 158) {
-        _temperatureIcon = Icons.whatshot;
+        _temperatureIcon = Icons.thermostat;
         _temperatureColor = Colors.red;
       } else {
         _temperatureIcon = Icons.whatshot;
